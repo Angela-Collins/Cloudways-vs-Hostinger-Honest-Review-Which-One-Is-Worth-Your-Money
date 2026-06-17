@@ -4,7 +4,6 @@ I was on Hostinger for almost a year. It was cheap, easy to set up, and honestly
 
 I didn't switch immediately, but the idea kept coming back. Eventually I moved to Cloudways and the difference was hard to ignore.
 
----
 
 ## What Hostinger Gets Right
 
@@ -16,7 +15,6 @@ If you're just starting out and budget is your main concern, Hostinger makes a l
 
 The onboarding is smooth, the dashboard is clean, and setting up a WordPress site takes maybe five minutes. I have no complaints about that side of things.
 
----
 
 ## Where Hostinger Started Falling Short for Me
 
@@ -32,7 +30,6 @@ And when I contacted support, the response time was decent but the solutions fel
 
 The renewal pricing also caught me off guard. The introductory rate I signed up for nearly doubled when it came time to renew. That stung a little.
 
----
 
 ## What Actually Changed After Switching to Cloudways
 
@@ -52,7 +49,6 @@ On Hostinger, I was managing some of this manually through plugins. Here it's ha
 
 The billing is also honest. No introductory pricing that spikes on renewal. What I pay now is what I'll pay going forward, and that consistency matters when you're budgeting for your site.
 
----
 
 ## The One Thing Hostinger Still Wins On
 
@@ -66,7 +62,6 @@ The other thing is email hosting. Cloudways doesn't include it, so you need to s
 
 Hostinger bundles it in, which is convenient especially for beginners.
 
----
 
 ## Cloudways vs Hostinger: Quick Comparison
 
@@ -81,7 +76,6 @@ Hostinger bundles it in, which is convenient especially for beginners.
 | Backups | Depends on plan | Built-in managed backups |
 | Best For | Beginners and small sites | Growing websites and serious projects |
 
----
 
 ## Which One Should You Choose?
 
